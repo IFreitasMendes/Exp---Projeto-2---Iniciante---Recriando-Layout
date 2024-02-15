@@ -23,6 +23,18 @@ nav ul {
 nav ul li a {
   text-decoration: none;
 }
+
+main {
+  display: flex;
+  gap: 82px;
+
+  width: 1092px;
+  margin-inline: auto;
+}
+
+main .texto {
+  text-align: center;
+}
 main h1 {
   font-weight: 700;
   line-height: 40px;
